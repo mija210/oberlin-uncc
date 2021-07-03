@@ -1,0 +1,9 @@
+# pushまでのながれ
+
+## コミット
+* git add <file> でステージング
+* git commit -m "コミットメッセージ"
+
+## git pushでリモートリポジトリに反映
+* git push origin ブランチ名
+
