@@ -1,3 +1,3 @@
-## oberlin-uncc
+# oberlin-uncc
 
-# 説明
+### 説明
