@@ -1,3 +1,4 @@
 # oberlin-uncc
 
-### 説明
+### description
+* 基本的にmdファイルで
